@@ -1,0 +1,7 @@
+1: project live,
+
+2: added in github
+
+3: .gitignore
+
+4: 

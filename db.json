@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "cd",
+      "username": "cd762",
+      "email": "cd762@gmail.com",
+      "phone": "08468931294",
+      "website": "CD.com",
+      "id": 8
+    },
+    {
+      "name": "Gurui",
+      "username": "Guruji#1",
+      "email": "Guruji@cisf.com",
+      "phone": "12121221212",
+      "website": "Guruji",
+      "id": 9
+    },
+    {
+      "name": "devi prasad",
+      "username": "devi007",
+      "email": "deviprasad762@gmail.com",
+      "phone": "08468444",
+      "website": "kale.biz.com",
+      "id": 10
+    },
+    {
+      "name": "parshant",
+      "username": "parshant123",
+      "email": "parshant@flngo.co.in",
+      "phone": "04325345340",
+      "website": "kale.biz.com",
+      "id": 11
+    },
+    {
+      "name": "neeraj",
+      "username": "neerja",
+      "email": "neeraj@unesko.com",
+      "phone": "01234567890",
+      "website": "neeraj.biz.com",
+      "id": 12
+    },
+    {
+      "name": "Test",
+      "username": "test@unipro.co.in",
+      "email": "test@test.com",
+      "phone": "01234567890",
+      "website": "test.com",
+      "id": 14
+    },
+    {
+      "name": "kandi",
+      "username": "kandi123",
+      "email": "kandi@manali.co.in",
+      "phone": "21234567890",
+      "website": "kandi.biz.com",
+      "id": 15
+    },
+    {
+      "name": "Test",
+      "username": "test@test.co.in",
+      "email": "test@test.com",
+      "phone": "01234567890",
+      "website": "test.com",
+      "id": 16
+    },
+    {
+      "name": "Anil Dogra",
+      "username": "AnilDogra645",
+      "email": "AnilDogra@gmail.com",
+      "phone": "12431313123131",
+      "website": "Bitcoin",
+      "id": 17
+    }
+  ]
+}
